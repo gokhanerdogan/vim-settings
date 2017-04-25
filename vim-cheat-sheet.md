@@ -155,7 +155,12 @@ cd
 mv .vimrc .vimrc-old
 mv .vim .vim-old
 touch .vimrc; mkdir .vim
+OR
+vimrc starter:
+cp -v /usr/share/vim/vim*/vimrc_example.vim ~/.vimrc
 ```
+
+
 
 ### Help
 
