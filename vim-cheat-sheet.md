@@ -19,12 +19,12 @@
 - Forward to the next 'y': fy (case sensitive)
 
 ### Moving arround
-- Move back one full screen ctrl b
-- Move forward one full screen ctrl f
-- Move forward 1/2 screen ctrl d
-- Move back (up) 1/2 screen ctrl u
-- Move to end of file :$ or esc G
-- Move to begining of file esc g
+- Move back one full screen: ctrl b
+- Move forward one full screen: ctrl f
+- Move forward 1/2 screen: ctrl d
+- Move back (up) 1/2 screen: ctrl u
+- Move to end of file: :$ or esc G
+- Move to begining of file: esc g
 
 
 ### Editing
@@ -38,6 +38,7 @@
 - Paste copied line: p
 - Change multiple words: 5cw
 - Insert at the end of the line: A
+- Paste from system clipboard: “+p
 
 
 ### Deleting
