@@ -139,6 +139,7 @@
 ### Visual Mode
 
 - Changing multiple lines of text: control + v + shift + i + action + esc
+http://stackoverflow.com/a/1676690
 - Select elements in paragraph: v + / + content
 
 
