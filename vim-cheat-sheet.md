@@ -173,3 +173,7 @@ cp -v /usr/share/vim/vim*/vimrc_example.vim ~/.vimrc
 
 - `c + i + t` will remove the code between HTML tags, such as: `<div>Some content</div>`
 - `c + i + }` will remove the code inside of a JavaScript function
+
+### Plugins
+
+- mkdir -p ~/.vim/autoload ~/.vim/bundle && curl --insecure -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
