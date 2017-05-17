@@ -121,6 +121,9 @@
 - ctrl + ww - switch between windows
 - ctrl + wq - Quit a window
 - ctrl + wv - Split windows vertically
+- tabe filepath - new tab
+- tabn
+- tabp
 
 
 ### Indenting
