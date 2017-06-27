@@ -1,4 +1,4 @@
-set number                      "Line numbers
+set relativenumber                      "Line numbers
 set autoread                    "Reload files changed outside vim
 
 
